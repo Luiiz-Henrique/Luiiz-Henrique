@@ -1,10 +1,4 @@
-### Hi there 👋
-
 <!--
-**Luiiz-Henrique/Luiiz-Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,4 +9,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- My name is Luiz Henrique, student of IFCE and i'm studying informatics.
+### ![image](https://user-images.githubusercontent.com/106769482/184149322-d1214478-bf63-4b51-8cf5-862eea6b8010.png)
+Hi there, my name is Luiz Henrique, student of IFCE and i'm studying informatics.
