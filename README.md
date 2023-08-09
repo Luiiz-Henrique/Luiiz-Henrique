@@ -4,6 +4,16 @@
 
 ---
 
+# <p align="center">📈Stastistics</p>
+
+<div align="center">
+  <a href="https://github.com/Luiiz-Henrique">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luiiz-Henrique&count_private=true&show_icons=true&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiiz-Henrique&layout=compact&theme=gruvbox"/>
+</div>
+<br>
+
+---
 # 💪🏾 Skills
 
 ### ➙ Languages and Tools
@@ -31,14 +41,11 @@
 <img align="center" alt="Certificado" height="280" width="410" src="https://github.com/Luiiz-Henrique/Luiiz-Henrique/blob/main/Certificado.png" />
 <br>
 
-### ➙ Stastistics
 
-<div align="center">
-  <a href="https://github.com/Luiiz-Henrique">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luiiz-Henrique&count_private=true&show_icons=true&theme=gruvbox"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiiz-Henrique&layout=compact&theme=gruvbox"/>
-</div>
-<br>
+---
     
-# Contact-me
+# <p align="center" >Contact-me</p>
+<div align="center">
 <a href="https://www.linkedin.com/in/luiz-henrique-411926196/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a src="mailto:luizhenriquesb21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
