@@ -25,8 +25,7 @@
 
 
 ### - Certificado em Suporte de TI da Google em parceria com o Coursera + CIEE.
-
-##
+<img align="center" alt="Certificado" height="401" width="610" src="https://github.com/Luiiz-Henrique/Luiiz-Henrique/blob/main/Certificado.png" />
 
 <div align="center">
   <a href="https://github.com/Luiiz-Henrique">
