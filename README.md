@@ -15,9 +15,20 @@
 #### <p >𝐒𝐭𝐚𝐬𝐭𝐢𝐬𝐭𝐢𝐜𝐬:</p>
 <div>
   <a href="https://github.com/Luiiz-Henrique">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luiiz-Henrique&count_private=true&show_icons=true&theme=gruvbox"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiiz-Henrique&layout=compact&theme=gruvbox"/>
-</div> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luiiz-Henrique&count_private=true&show_icons=true&theme=transparent&icon_color=fff&title_color=fff&hide_title=true&text_color=fff&border_color=fff&bg_color=36BCF7"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiiz-Henrique&layout=compact&theme=transparent&bg_color=36BCF7&title_color=fff&text_color=fff"/>
+</div>
+
+
+#### <p >𝐌𝐲 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬:</p>
+<div>
+  
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=G4Devels&repo=Projeto-Localizase&bg_color=36BCF7&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/G4Devels/Projeto-Localizase)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiiz-Henrique&repo=UPhysics_app&bg_color=36BCF7&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/Luiiz-Henrique/UPhysics_app)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiiz-Henrique&repo=BlackJack_da_Smile&bg_color=36BCF7&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/Luiiz-Henrique/BlackJack_da_Smile)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitoriadz&repo=App-Devideia&bg_color=36BCF7&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/vitoriadz/App-Devideia)
+</div>
+
 
 #### <p>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</p>
 <div>
@@ -39,6 +50,6 @@
 </div>
 
 #### <p>𝐂𝐨𝐧𝐭𝐚𝐜𝐭-𝐦𝐞:</p>
-<a href="https://www.linkedin.com/in/luiz-henrique-411926196/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a src="mailto:luizhenriquesb21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-36BCF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-411926196/)
+[![Gmail](https://img.shields.io/badge/Gmail-36BCF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizhenriquesb21@gmail.com)
 
