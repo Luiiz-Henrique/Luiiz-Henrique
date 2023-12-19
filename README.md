@@ -19,17 +19,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiiz-Henrique&layout=compact&theme=transparent&bg_color=36BCF7&title_color=fff&text_color=fff"/>
 </div>
 
-
-#### <p >𝐌𝐲 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬:</p>
-<div>
-  
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=G4Devels&repo=Projeto-Localizase&bg_color=36BCF7&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/G4Devels/Projeto-Localizase)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiiz-Henrique&repo=UPhysics_app&bg_color=36BCF7&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/Luiiz-Henrique/UPhysics_app)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiiz-Henrique&repo=BlackJack_da_Smile&bg_color=36BCF7&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/Luiiz-Henrique/BlackJack_da_Smile)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitoriadz&repo=App-Devideia&bg_color=36BCF7&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/vitoriadz/App-Devideia)
-</div>
-
-
 #### <p>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</p>
 <div>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
